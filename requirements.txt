@@ -1,4 +1,4 @@
-os
 flask
 dotenv
 llama_index
+pypdf
