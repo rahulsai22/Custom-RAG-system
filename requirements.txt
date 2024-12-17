@@ -83,7 +83,6 @@ pyrsistent==0.20.0
 python-dateutil 
 python-dotenv==1.0.1
 pytz==2024.2
-pywin32==305.1
 PyYAML==6.0.2
 pyzmq 
 regex==2024.11.6
